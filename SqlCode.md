@@ -1,4 +1,4 @@
-```sql
+```SQL
 --// Title: SQL Assessment
 --// Author: Imran Haq (Business Intelligence and Data Analytics Officer)
 
